@@ -1,0 +1,5 @@
+== README
+
+This application is a exercise of a chapter 1 on a rais 4 book.
+* Ruby version
+ruby 2.3.0p0
